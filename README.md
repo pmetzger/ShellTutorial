@@ -6,6 +6,19 @@ This is a tutorial introduction to the Unix shell, suitable for people
 who want to know how to use it effectively and how to write
 sophisticated shell scripts.
 
+## Sources and PDF
+
+This document is written in troff, using the `ms` macros plus some
+extras included with it. A Makefile is included that will build the
+document on most Unix systems.
+
+The sources are maintained using the git distributed revision control
+system. The latest version of the repository may be found at:
+<https://github.com/pmetzger/ShellTutorial>
+
+A PDF version of the document should also be available for download
+from: <https://github.com/pmetzger/ShellTutorial/downloads>
+
 ## History
 
 The tutorial was originally written by the creator of the modern
