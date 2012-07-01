@@ -1,8 +1,10 @@
-This document was originally created by S. R. Bourne, and then
-extensively updated by Perry E. Metzger.
+This document was originally written by S. R. Bourne at
+Bell Laboratories, then updated by Mark Seiden for 4.3BSD, and then
+more extensively updated by Perry E. Metzger.
 
-The modifications to S. R. Bourne's original document are under this
-copyright. (For "software" read "document"):
+The modifications to S. R. Bourne's original document by
+Perry E. Metzger are under this copyright. (For "software" read
+"document"):
 
  Copyright (c) 2010-2012, Perry E. Metzger <perry@piermont.com>
 
@@ -20,7 +22,8 @@ copyright. (For "software" read "document"):
  TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
  PERFORMANCE OF THIS SOFTWARE.
 
-S. R. Bourne's original document is under this copyright:
+S. R. Bourne's original document and Mark Seiden's modifications are
+under this copyright:
 
  Copyright (C) Caldera International Inc. 2001-2002.  All rights reserved.
 
