@@ -17,7 +17,7 @@ system. The latest version of the repository may be found at:
 <https://github.com/pmetzger/ShellTutorial>
 
 A PDF version of the document should also be available for download
-from: <https://github.com/pmetzger/ShellTutorial/downloads>
+from: <https://github.com/pmetzger/ShellTutorial/releases>
 
 ## History
 
