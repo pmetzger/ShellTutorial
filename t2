@@ -773,9 +773,9 @@ of files.
 	\*(DO esac
 	done
 .DE
-The \fB\(mic\fP flag is used in this command to
-force subsequent files to be created if they do not already exist.
-Otherwise, if the file does not exist, an error message is printed.
+By default, if the file does not exist, it will be created.
+The \fB\(mic\fP flag will cause this command to
+print an error message rather than create a new file.
 The shell variable \fIflag\fP
 is set to some non-null string if the \fB\(mic\fP
 argument is encountered.
